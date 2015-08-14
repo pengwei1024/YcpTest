@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#F5F5F5">
+    <RelativeLayout
+        android:id="@+id/current_version"
+        style="@style/user_center_menu_layout_style"
+        android:layout_marginTop="20dp">
+        <TextView
+            style="@style/user_center_menu_text_style_no_icon"
+            android:text="当前版本" />
+        <TextView
+            android:id="@+id/version_value"
+            style="@style/user_center_menu_text_right"
+            android:text="V1.0.0" />
+    </RelativeLayout>
+</LinearLayout>

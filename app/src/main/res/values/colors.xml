@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="basic_theme_color">#F84535</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="user_center_menu_press">#ddd</color>
+</resources>
